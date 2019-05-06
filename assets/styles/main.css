@@ -1,0 +1,7 @@
+body { margin: 0; background: #333333; }
+
+#information_wrapper { font-family: 'Courier New', monospace; font-size: 10pt; line-height: 14pt; color: #FFFFFF; position: fixed; bottom: 50px; left: 10px; }
+
+#information_wrapper i { font-style: normal; }
+
+#search_id { color: #FFFFFF; font-size: 20pt; background: transparent; width: 200px; position: fixed; bottom: 10px; left: 10px; z-index: 100; border: 0px; border-bottom: 1px solid #FFFFFF; outline: 0px; }
